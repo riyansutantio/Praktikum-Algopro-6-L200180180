@@ -1,1 +1,1 @@
-# Praktikum-Algopro-6-L200180180
+# Praktikum-Algopro-L200180180
